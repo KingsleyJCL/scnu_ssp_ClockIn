@@ -39,7 +39,7 @@
         android:id="@drawable/buttonstyle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="打卡"
+        android:text="打 卡"
         android:textSize="32sp"
         app:layout_constraintBottom_toTopOf="@+id/guideline4"
         app:layout_constraintEnd_toStartOf="@+id/guideline2"
