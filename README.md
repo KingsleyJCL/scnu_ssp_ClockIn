@@ -55,5 +55,7 @@ location = 'xx市xx县'      # 详细位置
 小米8实际使用效果图：  
 ![小米8效果图](https://github.com/wumcpq/scnu_ssp_ClockIn/raw/master/android/Snipaste_2020-05-10_18-12-27.jpg)
 
+新增布局文件与按钮格式文件
+
 # 自动打卡
 在windows下写一个批处理文件，将改批处理文件设置开机自启动即可每天打开电脑自动打卡。
